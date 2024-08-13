@@ -493,7 +493,7 @@ h1.style1, h2.style1, h3.style1, p.style1 {
     -webkit-text-stroke: 0.01em #FFFFFF;
     text-stroke: 0.01em #FFFFFF;
 }
-
+ 
 h1.style1 a, h2.style1 a, h3.style1 a, p.style1 a {
     color: #00376B;
     text-decoration: none;
@@ -534,7 +534,7 @@ h1.style2 mark, h2.style2 mark, h3.style2 mark, p.style2 mark {
 }
 
 h1.style2 a, h2.style2 a, h3.style2 a, p.style2 a {
-    color: #DF5769;
+    color: #DF5769
     text-decoration: none;
 }
 
